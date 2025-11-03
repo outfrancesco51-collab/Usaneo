@@ -4,5 +4,6 @@
         ".frag": "glsl",
         "sdl.h": "c",
         "stdio.h": "c"
-    }
+    },
+    "cmake.sourceDirectory": "C:/Users/Francy33/Desktop/Usaneo/include/glm"
 }
